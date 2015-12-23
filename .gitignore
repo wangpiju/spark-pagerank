@@ -1,1 +1,1 @@
-/target/
+/target/*.cache/*.settings/*.metadata/*.DS_Store/*.cache-main/*.csv
