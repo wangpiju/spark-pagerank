@@ -1,6 +1,5 @@
-/target/
-
-# 這是註解
+target/
+test/
 [Oo]bj
 [Bb]in
 [Tt]emp
